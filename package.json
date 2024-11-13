@@ -1,0 +1,15 @@
+{
+  "name": "rabbitmq-node-2024",
+  "version": "1.0.0",
+  "description": "This is a project created as a way of reviewing the knowledge of rabbitmq using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/amqplib": "^0.10.5",
+    "amqplib": "^0.10.4"
+  }
+}
